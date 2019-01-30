@@ -1,13 +1,15 @@
-  
-
-
+@media only screen and (max-width: 600px) {
+    body {
+      background-color: lightblue;
+    }
+  }
 
 body {
 
     background: purple;
-    background-image: url("https://cdn.pixabay.com/photo/2016/10/17/11/54/mandala-1747463_1280.jpg");
+    background-image: url("http://dr-schulz-pr.info/wp-content/uploads/2018/07/printable-adult-color-pages-best-printable-mandalas-to-color-free-images-on-in-mandala-coloring-pages-adults-coloring-pages-online-to-print.jpg");");
     background-repeat: repeat;
-    font-family:"arial", "helvetica Neue", "Helvetica" "sans-serif";
+    font-family: "cursive" "arial", "helvetica Neue", "Helvetica" "sans-serif";
     font-size: 18px;
     line-height: 150%;
 }
@@ -37,6 +39,7 @@ h2 {
 
 p  {
     background-color: rgb(187, 164, 240); 
+    font-family: cursive;
     color: #777;
     margin: 0;
     text-align: center;
